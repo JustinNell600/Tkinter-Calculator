@@ -12,5 +12,6 @@ A lightweight and user-friendly **desktop calculator** built using **Python** an
 python main.py
 ```
 ## 🌱 Future Plans
-1. I am planing on working with <a href="https://github.com/ParthJadhav/Tkinter-Designer">tkinter designer</a> to create more visually appealing gui and potentially play around with customizable themes
-2. I also want to incorporate more calculations than the basic, essentially creating a normal physical scientific calculator but on a virtual front
+1. Plans to work with <a href="https://github.com/ParthJadhav/Tkinter-Designer">tkinter designer</a> to create more visually appealing gui and potentially play around with customizable themes are in the making
+2. Incorporate more calculations than the basic, essentially creating a normal physical scientific calculator but on a virtual front
+3. Clean the code a bit more to increase efficiency and readability 
